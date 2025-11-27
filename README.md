@@ -7,13 +7,13 @@
   
   <p>
     <em>3rd-year Student at the University of Murcia (UMU).<br>
-    Passionate about offensive security, Networking, and system administration.</em>
+    Passionate about offensive security, Networking, and Systems.</em>
   </p>
 
   <a href="mailto:paco.tornell.2005@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USER">
+  <a href="https://www.linkedin.com/in/francisco-tornell-mingot-938137298/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
@@ -44,6 +44,11 @@ Based on my academic background and personal projects:
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 
+  <h4>IDEs & Editors</h4>
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+
   <h4>Systems & Security Tools</h4>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
@@ -64,10 +69,17 @@ Based on my academic background and personal projects:
 
 ---
 
-### 📂 Featured Projects / Labs
+### 🚀 Featured Projects
 
-*(Since I am a student, these are some of the key academic projects I've developed)*
-
+<p align="center">
+  <a href="https://github.com/paco25466/NOMBRE_DEL_REPO_1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=paco25466&repo=NOMBRE_DEL_REPO_1&theme=blue-green" alt="Repo 1" />
+  </a>
+  
+  <a href="https://github.com/paco25466/NOMBRE_DEL_REPO_2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=paco25466&repo=NOMBRE_DEL_REPO_2&theme=blue-green" alt="Repo 2" />
+  </a>
+</p>
 
 
 ---
