@@ -70,7 +70,7 @@ Based on my academic background and personal projects:
   </a>
   
   <a href="https://github.com/paco25466/NOMBRE_DEL_REPO_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=paco25466&repo=NOMBRE_DEL_REPO_2&theme=blue-green" alt="Repo 2" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=paco25466&repo=Minic&theme=blue-green" alt="Repo 2" />
   </a>
 </p>
 
