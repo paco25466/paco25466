@@ -7,7 +7,7 @@
   
   <p>
     <em>3rd-year Student at the University of Murcia (UMU).<br>
-    Passionate about offensive security, Networking, and Systems.</em>
+    Passionate about offensive security, Networking and Systems.</em>
   </p>
 
   <a href="mailto:paco.tornell.2005@gmail.com">
