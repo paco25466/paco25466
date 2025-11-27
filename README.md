@@ -65,11 +65,11 @@ Based on my academic background and personal projects:
 ### 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/paco25466/NOMBRE_DEL_REPO_1">
+  <a href="https://github.com/paco25466/Nanofiles">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=paco25466&repo=Nanofiles&theme=blue-green" alt="Repo 1" />
   </a>
   
-  <a href="https://github.com/paco25466/NOMBRE_DEL_REPO_2">
+  <a href="https://github.com/paco25466/Minic">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=paco25466&repo=Minic&theme=blue-green" alt="Repo 2" />
   </a>
 </p>
