@@ -60,20 +60,13 @@ Based on my academic background and personal projects:
 
 ---
 
-### 📊 GitHub Activity
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=paco25466&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paco25466&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages graph" />
-</div>
-
----
 
 ### 🚀 Featured Projects
 
 <p align="center">
   <a href="https://github.com/paco25466/NOMBRE_DEL_REPO_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=paco25466&repo=NOMBRE_DEL_REPO_1&theme=blue-green" alt="Repo 1" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=paco25466&repo=Nanofiles&theme=blue-green" alt="Repo 1" />
   </a>
   
   <a href="https://github.com/paco25466/NOMBRE_DEL_REPO_2">
